@@ -1,0 +1,47 @@
+#background {
+    background-image: url(background.jpg);
+    background-size: cover;
+
+}
+
+.table {
+    background: #FFFFF0;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.table td {
+    border: 2px solid rgb(0, 0, 0);
+    font-family: 'bahnschrift';
+    src: url(fonts\BAHNSCHRIFT.TTF);
+    font-size: 30px;
+    color: #151414;
+}
+
+.table th {
+    border: 2px solid black;
+    background: #bef8be;
+    font-family: 'calibri';
+    src: url(fonts\CALIBRI.TTF);
+}
+
+#info {
+    background-color: rgb(255, 209, 125);
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'calibri';
+    src: url(fonts\CALIBRI.TTF);
+    font-size: 45px;
+    color: #151414;
+}
+
+img {
+    width: 70px;
+}
+
+#placar {
+    border: 0px;
+}
+
